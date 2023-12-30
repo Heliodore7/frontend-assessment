@@ -1,0 +1,46 @@
+
+header{
+    background: rgb(70, 90, 127);
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+header h3{
+    margin-left: auto;
+    text-align: end;
+    color: white;
+    
+} 
+
+section{
+    background: white;
+    justify-content: center;
+
+}
+
+.section1{
+    display: flex;
+    text-align: center;
+    border-radius: 30px;
+    gap: 30px;
+    font-size: medium;
+    justify-content: center;
+
+}
+.section1 h2{
+    color: #f5a819;
+}
+
+.body{
+    display: flex;
+    text-align: center;
+    border-radius: 30px;
+    font-size: medium;
+    gap: 30px;
+    justify-content: center;
+}
+.body h2{
+    color: #f5a819;
+}
